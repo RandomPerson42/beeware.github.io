@@ -1,0 +1,48 @@
+_model: page
+---
+title: Was ist BeeWare?
+---
+body:
+
+
+Python hat sich als äußerst flexible Sprache erwiesen, die sowohl anfängergerecht ist, als auch für Experten ein mächtiges Mittel sein kann. Das BeeWare-Projekt zielt darauf ab, diese Leistungsfähigkeit zu nutzen und es Entwicklern jedes Niveaus zu ermöglichen, Anwendungen mit plattformspezialisierten Benutzeroberflächen zu entwickeln.
+
+Die Vision des BeeWare-Projekts: für mobile und Desktop-Anwendersoftware dasselbe zu tun, was Django für Websoftware getan hat - den Entwicklern eine Reihe von Werkzeugen und Bibliotheken zur Verfügung zu stellen, mit denen sie umfassende Benutzeroberflächen designen und auf gewünschtem Gerät platzieren können. Dies umfasst:
+
+* Werkzeuge, mit denen Python auf verschiedenen Geräten ausgeführt werden kann,
+* Werkzeuge zum Verpacken eines Python-Projekts, damit es auf diesen Geräten ausgeführt werden kann,
+* Bibliotheken für den Zugriff auf die plattformspezifischen Widgets und Funktionen von Geräten,
+* Werkzeuge zum Entwickeln, Debuggen, Analysieren und Platzieren dieser Projekte.
+
+Unser Ziel ist, dass dieses Werkzeugset für Beginner in einer „Django Girls”-ähnlichen Umgebung einfach zu bedienen ist, aber mächtig genug, um das nächste Instagram, Pinterest oder Disqus hervorbringen zu können.
+
+Es geht uns aber nicht nur um Software. Wir möchten auch als Projekt ein soziales Vorbild sein. Wir möchten eine vielfältige und integrative Gemeinschaft aufbauen und pflegen. Aus diesem Grund besitzen wir einen Verhaltenskodex, der konsequent durchgesetzt wird. Wir streben auch danach, eine gesunde und nachhaltige Gemeinschaft aufzubauen - eine, die sich der psychischen Gesundheitsprobleme ihrer Teilnehmer bewusst ist und die Ressourcen für Menschen bereitstellt, um mit der Gemeinschaft in Kontakt zu treten und in Kontakt zu bleiben.
+
+Artikelvorschläge
+====================
+
+Wenn Sie mehr über die Geschichte von BeeWare erfahren möchten, `starten Sie hier <German About Page> `__.
+
+Wenn Sie BeeWare testen möchten, werfen Sie einen Blick auf `die verschiedenen Verwendungsbereiche von BeeWare Werkzeugen <German Usage Page> `__.
+
+Wenn Sie über unsere Aktivitäten auf dem neuesten Stand bleiben möchten, folgen Sie `"@PyBeeWare <https://twitter.com/PyBeeWare/>"` __ auf Twitter.
+
+Wenn Sie Updates, Hinweise und Ankündigungen zum BeeWare-Projekt erhalten möchten, `tragen Sie sich in der BeeWare Begeisterten-Mailliste ein. (in Englisch) </Community/keep-informed/>`__.
+
+---
+gutter:
+
+Nächste Schritte
+==========
+
+* Die `Geschichte des BeeWare-Projekts <German About Page>` __
+* `BeeWare-Testlauf <German Usage Page>` __
+* `@PyBeeWare auf Twitter <https://twitter.com/PyBeeWare/>` __
+* Die `Beeware Begeisterten-Mailliste </community/keep-informed/> `__
+
+---
+incomplete: no
+---
+sort_key: 1
+---
+summary: A first-timer's introduction to the BeeWare project (DE)
